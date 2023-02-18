@@ -1,2 +1,3 @@
 # Alterra-Academy-QE
-Tugas dan catatan selama di alterra
+Tugas dan resume selama di alterra
+dengan nama Ikhsan Nurazis - QE
