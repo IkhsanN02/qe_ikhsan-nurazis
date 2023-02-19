@@ -1,0 +1,28 @@
+Soal Software Testing Fundamental 
+Soal Prioritas 1 
+1.	Sebutkan dan jelaskan berbagai automation testing tool yang dapat digunakan (minimal 3)!
+Jawab :
+•	Apache Jmeter adalah aplikasi yang menggunakan bahasa java yang berfungsi untuk mengetes performa dari suatu perangkat lunak. 
+•	Postman adalah plugin yang terdapat pada crome yang berfungsi sebagai rest client untuk menguji coba rest API yang sudah dibuat.
+•	Ranox adalah aplikasi tes yang dapat dijalankan pada berbagai platform seperti pc, website, mobile. Kemudahan yang ditawarkan pada aplikasi ranox adalah detail dari laporan bisa dengan menunjukan screenshot dari hasil testing.
+•	Tricentis Tosca adalah perangkat lunak uang digunakan untuk melakukan proses pengujian dari awal sampai akhir, tes yang diuji untuk menguji GUI dan API dari perspektif bisnis
+•	IBM Rational Functional Tester adalah 
+Sumber : https://toghr.com/10-tools-testing-terbaik/ 
+
+2.	Tuliskan secara lengkap kesimpulan dari gambar
+Jawab :
+Kode blok tersebut adalah kode java untuk kalkulator sederhana yang didalamnya terdapat class public yang artinya dapat diakses dari file lain yang didalam class terdapat fungsi untuk penambahan dan pengurangan. 
+Sumber : http://saptaji.com/2021/11/09/membuat-aplikasi-kalkulator-sederhana-menggunakan-java/ 
+
+Soal Prioritas 2 
+1.	Kesimpulan dari gambar tersebut adalah tesAdd_1 berhasil dilakuakan sedangkan TesAdd_2 gagal dilakukan kemudian TestSubstract_1 berhasil dilakukan sendangkan TestSubstract_2 gagal dilakukan.
+
+Soal Eksplorasi
+1.	Tuliskan secara lengkap kesimpulan dari gambar
+Jawab : menurut saya kesimpulan dari gambar tesebut adalah dilakukannya cek yang berhasil sebanyak 89.09% dan terjadi kesalahan sebesar 10.90% oleh karena itu dari 110 data yang di tes data yang berhasil di tes sebanyak 98 data dan 12 data lainnya gagal atau terjadi kesalahan. 
+
+Soal Software Testing as a Career Path
+1.	Sebutkan berbagai skil yang dibutuhkan untuk menjadi seorang software tester!
+•	Komunikasi -> skil komunikasi yang baik akan mempermudah software tester menyampaikan apa saja bug yang terjadi sehingga bug dapat diatasi dengan mudah. Dengan skil komunikasi maka software tester dapat menjadi perantara antara developer dengan client karena seorang softwarea tester mengetahui semua tentang aplikasi yang sedang dikembangkan.
+•	Analisis yang baik -> dengan kemampuan analisis maka seorang software analisis dapat menganalisis bug apa saja yang terjadi dan memiliki insting apa saja yang biasa dilakukan oleh client sehingga menemukan celah bug yang mungkin luput dari sang developer.
+
