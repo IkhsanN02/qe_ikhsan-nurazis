@@ -1,0 +1,2 @@
+ini adalah file dev
+untuk mempermudah saya menggunakan file txt untuk uji coba
