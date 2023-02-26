@@ -1,3 +1,0 @@
-haloo didalam sini ceritanya aplikasi yang lagi dalam proses development 
-karena untuk tugas maka dari itu saya mencoba dengan file txt 
-untuk mempermudah dalam percobaan melalui git
