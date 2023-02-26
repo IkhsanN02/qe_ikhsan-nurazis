@@ -9,6 +9,7 @@ pada setiap folder akan berisikan sub folder
 melakukan commit
 jawab :
 proses tersebut sudah saya lakukan dan saya memasukan kedalam file screenshot
+dari tugas 1.1 - tugas 1.4
 
 Soal Prioritas 2 
 buatlah branch baru pada github yang kalian buat
@@ -28,4 +29,7 @@ dev adalah program yang masih di buat
 dan fiture adalah fitur fitur yang ingin ditambahkan
 disini saya ingin menambahkan fitur pada bagian version control untuk menambahkan file baru dengan nama fitur.txt
 kemudian pada bagian dev juga saya tambahkan file aplikasi_dev.txt yang kemudian saya gabungkan menjadi 1 pada bagian branch dev
+untuk screenshot dari tugas saya menaruhnya di file screenshoot
+
+sumber : https://youtu.be/jydxcnSOIG4
  
