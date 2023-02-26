@@ -1,0 +1,31 @@
+Ikhsan Nurazis - Quality Engineer | C
+
+Tugas 2 - Version Control (Git)
+
+Soal Prioritas 1 
+buatlah sebuah repository github yang sesuai dengan namakelas_namakalian
+buatlah folder yang berurutan dan diberi nama sesuai dengan nama soal yang kalian kerjakan
+pada setiap folder akan berisikan sub folder
+melakukan commit
+jawab :
+proses tersebut sudah saya lakukan dan saya memasukan kedalam file screenshot
+
+Soal Prioritas 2 
+buatlah branch baru pada github yang kalian buat
+lakukan Pull Request pada branch tersebut sehingga akan menambah hal baru pada branch main/master
+jawab :
+saya menambahkan branch baru dengan nama ini_branch_baru dan menambahkan file hellow.txt pada branch tersebut.
+
+Soal Explorasi 
+dengan project terserah kalian, praktikkan salah satu workflow sederhana dengan buktikan dengan Screenshoot. github flow/gitflow/trunkbase
+lakukan management konflik pada github
+lakukan code review pada github yang kalian kumpulkan
+Jawab :
+saya menggunakan gitflow
+terdapat 3 branch yaitu main, dev, dan fiture
+untuk main adalah branch yang realese
+dev adalah program yang masih di buat
+dan fiture adalah fitur fitur yang ingin ditambahkan
+disini saya ingin menambahkan fitur pada bagian version control untuk menambahkan file baru dengan nama fitur.txt
+kemudian pada bagian dev juga saya tambahkan file aplikasi_dev.txt yang kemudian saya gabungkan menjadi 1 pada bagian branch dev
+ 
