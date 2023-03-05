@@ -1,0 +1,18 @@
+Soal Testing Documentation
+
+Soal Prioritas 1 & 2
+saya mengerjakan dengan file xml ada pada bagian folder praktikum
+
+soal eksplorasi
+pengujian non fungsional dengan lighthouse
+berdasarkan pengujian lighthouse website sepulsa mendapatkan nilai 22 untuk performa, 97 untuk accessibility, 75 untuk best practices dan 100 seo. mengapa mendapat nilai yang kecil di peforma karena memakai aplikasi pihak ketiga pada bagian code.untuk gambar dapat dilihat pada file screenshoot 1_SE_pengujian_lighthouse dan untuk data rapot ada pada file screenshoot dengan dokumen pdf bernamakan 1.2_Lighthouse_Report_Sepulsa
+
+Soal Test Case Management Tools
+tes uji dengan testrail
+saya memasukkan data yang dibutuhkan yaitu login, pilih produk dan pilih metode pembayaran berdasarkan testcase pada tugas sebelum. hasil ada pada file screenshoot 2.1_testrail_entry_test_case
+saya mengujicoba testrail dan mendapatkan report. data ada pada file screenshoot 2.2_testrail_rapot_dataa_dari_pengujian
+
+Soal Tracking Management Tools
+saya mensimulasikan tes sepulsa disini
+membuat story berdasarkan login, memilih produk dan metode pembayaran
+step-step pekerjaan saya taruh di pada bagian folder screenshoot
