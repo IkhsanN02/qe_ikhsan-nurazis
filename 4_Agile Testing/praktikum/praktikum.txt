@@ -1,0 +1,20 @@
+Ikhsan Nurazis - QE | C
+Soal prioritas 
+1. pada fase apa saja QE berperan pada proses SDLC? sebutkan dan jelaskan peran seperti apa yang QE dapat melakukan pada setiap fase tersebut!
+jawab : menurut saya QE bekerja pada fase development dan testing. pada fase development QE dapat membuat tes dokumentasi, dan test case dengan bekerja sama dengan development lain kira-kira apa saja yang hendak dibuat dalam projek tersebut. Pada bagian testing QE dapat memulai untuk menguji software dan mencari kira-kira masalah apa yang ditemukan oleh user terhadap software yang dibuat tersebut.
+
+
+2. menurut anda, apa tantangan ketika menerapkan agile testing? Berikan penjelasan pada masing-masing 5 point agile testing manifesto!
+jawab :
+menurut saya tantangan terhadap penerapan agile testing ada 2 yaitu pada tim develop dan client. pada pihak develop kurang berpengalaman dan menolak perubahan akan menyusahkan untuk menerapkan metode agile sehingga akan tidak efektif dan membuat kolaborasi antar tim menjadi tidak efektif dan akan banyak miss-komunikasi. untuk client mungkin adanya perubahan yang mendadak dan menjadikan hal tersebut sebagai salah satu metode akan sangat menyulitkan bagi tim development untuk menyelesaikan pekerjaannya.
+agile testing manifesto :
+-testing is a activity not phase
+tester dilakukan beriringan dengan development karena agar bisa menjadi efektif
+-prevent bug rather than finding bugs
+mengurangi adanya bug dengan memperjelas requirement
+-dont be a checker, be a tester
+cari feedback untuk software yang di tes
+-don't try to break the system, instead help build the best posible system
+memposisikan tester sebagai user untuk menguji software
+-the whole team is responsible for quality, not just the tester
+tanggung jawab software harus kepada semua tim dan anggota karena satu software dibuat oleh tim bukan perorangan
