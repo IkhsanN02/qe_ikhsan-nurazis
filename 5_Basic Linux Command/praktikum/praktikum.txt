@@ -1,0 +1,41 @@
+Tugas 
+1. cobalah semua linux command yang sudah dijelaskan. (gambar ss ada pada file screenshoot)
+
+basic command
+cal : menampilkan kalender
+date  : menampilkan tanggal pada zona waktu yang tertera pada OS
+
+file system command
+touch   : membuat file baru
+cat     : membuat daftar content atau isi file
+cp      : untuk menyalin file ke direktory berbeda
+mv      : untuk memindahkan file tetapi bisa digunakan untuk mengganti atau mengubah nama file
+rm      : untuk menghapus direktory direktory beserta isinya
+mkdir   : unutuk membuat direktory baru
+rmdir   : menghapus direktory (direktory yang kosong)
+cd      : untuk pergi ke direktory lain
+pwd     : untuk mencari tab absolut
+
+processes control
+top     : akan menampilkan daftar proses yang sedang berlangsung dan menampilkan ruang cpu 
+clear   : untuk membersihkan terminal
+history : untuk mengecek code command yang dijalankan
+
+utilities
+ls      : menampilkan semua direktory
+which   : mencari file terkait comen yang diberikan
+sudo    : menjalankan test yang memiliki hak akses
+find    : mencari file dan direktory
+
+file akses permissions
+chmod   : untuk membaca dan menulis dalam menjalankan permission
+chown   : untuk mengubah user access
+
+2. buatlah shell script minimal 5 command dan jelaskan.
+echo '#!/bin/sh' >> my-script.sh //membuat header
+echo "echo hello guys" >> my-script.sh // file char
+cat my-script.sh // membuat file
+ls -al // mengecek file
+chmod 755 myscript // mengganti akses file
+ls -al // mengecek file
+./my-script.sh // mengecek isi file
