@@ -1,0 +1,15 @@
+Tugas
+Soal pengenalan Restful API
+jawab : semua hasil dari pengerjaan saya taruh di file screenshot
+
+Soal Prioritas 1
+membuat testcase di excel
+jawab : file dilampirkan di file praktikum dengan nama test case
+
+Soal Prioritas 2
+membuat testcase menggunakan testRial
+jawab : file hasil dari testRial saya lampirkan di file screenshot dengan nama testRial
+
+Soal Eksplorasi 
+melakukan tes mengunakan postman
+jawab : menurut saya hasilnya mirip dengan soal pengenalan restful API dan file saya letakkan di file screenshot
