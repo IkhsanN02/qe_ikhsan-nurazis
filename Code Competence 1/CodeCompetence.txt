@@ -1,0 +1,16 @@
+### Objective
+
+1. Membuat sebuah test case dan test scenario.
+2. Menentukan berbagai fitur yang akan dilakukan pengujian.
+
+### Tugas
+
+1. Kerjakan tugas berikut:
+
+[QA Weekly Task 1](https://docs.google.com/document/d/1jE6kPl2cH4U6AuZZPVZsmmqqURtDlagV5c9WQ6vCP9A/edit?usp=sharing)
+
+
+### Cara Pengumpulan
+
+1. Tuliskan test case dan test scenario melalui google sheet dengan format yang rapi.
+2. Tugas dikumpulkan di Github.
