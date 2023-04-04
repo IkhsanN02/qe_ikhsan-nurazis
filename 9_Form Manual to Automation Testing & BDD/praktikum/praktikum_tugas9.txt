@@ -1,0 +1,23 @@
+Soal From Manual to Automation Testing
+1. Jelaskan jenis-jenis dari performance testing 
+jawab :
+a. Load testing: pengujian untuk menguji performa sistem dalam kondisi beban tertentu untuk memastikan bahwa sistem dapat menangani lalu lintas pengguna yang tinggi dengan waktu respon yang baik.
+b. Stress testing: pengujian untuk menguji batas kemampuan sistem dalam menangani kondisi beban ekstrem, termasuk pengujian untuk memeriksa apakah sistem dapat pulih dari kegagalan dan apakah data akan hilang atau rusak dalam situasi yang buruk.
+c. Endurance testing: pengujian untuk menguji kemampuan sistem dalam menangani beban yang konstan dan berkelanjutan selama periode waktu yang lama, untuk memastikan bahwa sistem dapat menangani pengguna yang aktif secara berkelanjutan.
+d. Spike testing: pengujian untuk menguji kemampuan sistem dalam menangani lonjakan lalu lintas yang tiba-tiba, untuk memastikan bahwa sistem dapat menangani kenaikan yang tiba-tiba dalam jumlah pengguna dan mempertahankan waktu respon yang baik.
+
+2. Sebutkan dan jelaskan tools yang dapat digunakan untuk melakukan performance testing 
+Jawab :
+a. Apache JMeter: tool yang open-source, yang dapat digunakan untuk melakukan pengujian beban, pengujian fungsi, dan pengujian performa web.
+b. LoadRunner: tool yang dikembangkan oleh Micro Focus, yang digunakan untuk melakukan pengujian beban, pengujian fungsi, dan pengujian performa web.
+c. Gatling: tool yang open-source, yang dapat digunakan untuk melakukan pengujian beban pada aplikasi web, dan dapat menghasilkan grafik dan laporan performa.
+d. Visual Studio Load Test: tool yang dikembangkan oleh Microsoft, yang digunakan untuk melakukan pengujian beban pada aplikasi web dan layanan web.
+e. BlazeMeter: tool yang dapat digunakan untuk melakukan pengujian beban dan pengujian performa pada aplikasi web dan layanan web, dan menyediakan integrasi dengan beberapa alat pengujian performa lainnya.
+
+Soal Behavior Driven Development (BDD)
+Soal Prioritas 1
+o> Lakukan testing pada aplikasi https://www.linkedin.com/
+Soal Prioritas 2
+o> Lakukan testing pada aplikasi https://www.sepulsa.com/ 
+Soal Eksplorasi
+Lakukan testing pada aplikasi https://www.sepulsa.com/ 
