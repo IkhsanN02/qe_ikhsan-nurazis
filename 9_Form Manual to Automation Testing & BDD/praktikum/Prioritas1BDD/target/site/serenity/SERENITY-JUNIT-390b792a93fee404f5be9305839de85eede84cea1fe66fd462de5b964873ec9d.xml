@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><testsuite errors="1" failures="0" name="Search People Linkedin" skipped="0" tests="1" time="6.74" timestamp="2023-04-02 05:16:14"><testcase name="I want to using feature search on linkedin"><error message="Unable to establish websocket connection to http://localhost:55805/devtools/browser/c1c6bf5c-8a1f-47bd-bd86-56d9552008e4&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'&#10;Driver info: driver.version: ChromeDriver&#10;Build info: version: '4.8.1', revision: '8ebccac989'&#10;System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'&#10;Driver info: driver.version: unknown" type="org.openqa.selenium.remote.http.ConnectionFailedException">Unable to establish websocket connection to http://localhost:55805/devtools/browser/c1c6bf5c-8a1f-47bd-bd86-56d9552008e4
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'
+Driver info: driver.version: unknown</error><system-err>Unable to establish websocket connection to http://localhost:55805/devtools/browser/c1c6bf5c-8a1f-47bd-bd86-56d9552008e4
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'
+Driver info: driver.version: ChromeDriver
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'
+Driver info: driver.version: unknown
+Web.UI.Serenity@1.0-SNAPSHOT/starter.stepdef.SearchLinkedin.iOpenBrowser(SearchLinkedin.java:22)
+✽.I open browser(file:///Users/masgilang/Downloads/WebBDDTest/src/test/resources/features/SearchLinkedin.feature:3)
+</system-err></testcase></testsuite>

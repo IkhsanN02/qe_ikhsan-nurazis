@@ -1,0 +1,11 @@
+-------------------------------------------------------------------------------
+Test set: starter.CucumberTestSuite
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 8.178 s <<< FAILURE! - in starter.CucumberTestSuite
+Search People Linkedin.I want to using feature search on linkedin  Time elapsed: 6.854 s  <<< ERROR!
+org.openqa.selenium.remote.http.ConnectionFailedException: 
+Unable to establish websocket connection to http://localhost:55805/devtools/browser/c1c6bf5c-8a1f-47bd-bd86-56d9552008e4
+Build info: version: '4.8.1', revision: '8ebccac989'
+System info: os.name: 'Mac OS X', os.arch: 'aarch64', os.version: '13.1', java.version: '19.0.2'
+Driver info: driver.version: ChromeDriver
+

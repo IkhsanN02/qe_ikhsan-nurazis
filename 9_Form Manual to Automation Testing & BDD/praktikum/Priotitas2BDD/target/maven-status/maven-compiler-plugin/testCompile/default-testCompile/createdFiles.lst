@@ -1,0 +1,4 @@
+starter\paymentMethod\PaymentMethodSteps.class
+starter\selectProduct\SelectProductSteps.class
+starter\CucumberTestSuiteSteps.class
+starter\login\LoginSteps.class
