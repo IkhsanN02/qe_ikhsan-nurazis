@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Digital Library</title>
+
+</head>
+<body>
+	<h1>Welcome to Digital Library</h1>
+    <div>Create a new member</div>
+	<form>
+        <p>
+		<label for="name">Name</label>
+		<input type="text" id="name" name="name" required>
+        </p>
+        <p>
+		<label for="email">Email</label>
+		<input type="email" id="email" name="email" required>
+        </p>
+        <p>
+		<label for="password">Password</label>
+		<input type="password" id="password" name="password" required>
+        </p>
+        <p>
+		<label for="ph_num">Phone number</label>
+		<input type="tel" id="ph_num" name="ph_num" pattern="[0-9]{10,12}" required>
+        </p>
+        <p>
+		<label for="address">Address</label>
+        <textarea id="address" name="address" required></textarea>
+        </p>
+        <p>
+		<label for="gender">Gender</label>
+            <label><input type="radio" name="gender" value="male" /> male</label>
+            <label><input type="radio" name="gender" value="female" /> female</label>
+        </p>
+        <p>
+		<button type="submit">Register</button>
+        </p>
+    </form>
+</body>
+</html>

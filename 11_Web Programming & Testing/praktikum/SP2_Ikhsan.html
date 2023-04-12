@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Welcome to Digital Library</title>
+	<style>
+		body {
+			margin: 0;
+			padding: 0;
+			font-family: Arial, sans-serif;
+			background-color: #f2f2f2;
+		}
+		.container {
+			max-width: 800px;
+			margin: 0 auto;
+			padding: 20px;
+			background-color: white;
+			box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+			border-radius: 5px;
+			box-sizing: border-box;
+		}
+		h1 {
+			text-align: center;
+			margin-top: 0;
+			margin-bottom: 20px;
+
+		}
+		form {
+			display: flex;
+			flex-direction: column;
+			padding: 20px;
+			border: 1px solid gray;
+			border-radius: 5px;
+			width: 100%;
+			box-sizing: border-box;
+		}
+		input, select, textarea {
+			margin: 5px;
+			padding: 10px;
+			border-radius: 5px;
+			border: 1px solid gray;
+			width: 100%;
+			box-sizing: border-box;
+		}
+		select {
+			width: 103%;
+		}
+		button {
+			margin-top: 10px;
+			padding: 10px;
+			border-radius: 5px;
+			border: none;
+			background-color: blue;
+			color: white;
+			cursor: pointer;
+			width: 100%;
+			box-sizing: border-box;
+		}
+		@media screen and (min-width: 768px) {
+			form {
+				width: 70%;
+			}
+			input, select, textarea {
+				width: 100%;
+			}
+			select {
+				width: 101%;
+			}
+			button {
+				width: 50%;
+			}
+		}
+	</style>
+</head>
+<body>
+	<div class="container">
+		<h1>Welcome to Digital Library</h1>
+		<form>
+            <div style="text-align: center;">Create a new member</div>
+			<label for="name">Name</label>
+			<input type="text" id="name" name="name" required>
+
+			<label for="email">Email</label>
+			<input type="email" id="email" name="email" required>
+
+			<label for="password">Password:</label>
+			<input type="password" id="password" name="password" required>
+
+			<label for="ph_num">Phone Number</label>
+			<input type="tel" id="ph_num" name="ph_num" pattern="[0-9]{10,12}" required>
+
+			<label for="gender">Gender</label>
+			<select id="gender" name="gender" required>
+				<option value="">--choose your gender--</option>
+				<option value="male">male</option>
+				<option value="female">female</option>  
+			</select>
+            <button type="submit">Register</button>
+            </form>
+</body>
+</html>
