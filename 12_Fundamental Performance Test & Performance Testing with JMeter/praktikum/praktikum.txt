@@ -1,0 +1,17 @@
+Soal Fundamental Performance Testing
+Jelaskan jenis-jenis dari performance testing
+1. Smoke Testing : jenis pengujian yang dilakukan untuk memastikan bahwa aplikasi atau sistem dikonfigurasikan dengan benar dan berfungsi dengan baik setelah perubahan kecil atau pembaruan. Tes asap biasanya dilakukan di awal proses pengujian sehingga masalah besar dapat diketahui lebih awal.
+
+2. Load Testing : jenis pengujian yang membuat aplikasi atau sistem mengalami tekanan tinggi untuk mengevaluasi kinerjanya dalam kondisi penggunaan normal atau maksimum. Tujuannya adalah untuk mengetahui apakah aplikasi atau sistem dapat menahan tekanan tinggi dan mempertahankan performa optimal dalam kondisi beban maksimum.
+
+3. Tabel Tier : istilah yang digunakan untuk menggambarkan bagaimana aplikasi atau sistem dibagi menjadi beberapa bagian atau "lapisan". Setiap lapisan bertanggung jawab atas tugas atau fungsi tertentu dalam aplikasi atau sistem.
+
+4. Stress Testing : jenis pengujian yang membuat aplikasi atau sistem dikenai beban di luar kemampuannya untuk menilai toleransi dan memahami bagaimana sistem atau aplikasi akan merespons dalam situasi ekstrem.
+
+5. Spike Testing : jenis pengujian di mana aplikasi atau sistem dikenai beban singkat dan tiba-tiba untuk menilai kemampuannya menangani lonjakan tiba-tiba pada pengguna atau beban.
+
+6. Soak Testing : jenis pengujian yang membuat aplikasi atau sistem mengalami tekanan tinggi untuk jangka waktu yang lama untuk menilai kemampuan sistem atau aplikasi untuk mempertahankan kinerjanya dalam jangka waktu yang lama.
+
+
+
+Soal Introduction & Tutorial Record with JMeter
