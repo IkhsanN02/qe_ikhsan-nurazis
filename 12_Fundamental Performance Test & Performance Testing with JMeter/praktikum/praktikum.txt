@@ -15,3 +15,4 @@ Jelaskan jenis-jenis dari performance testing
 
 
 Soal Introduction & Tutorial Record with JMeter
+jawaban terdapat pada file screenshot 
