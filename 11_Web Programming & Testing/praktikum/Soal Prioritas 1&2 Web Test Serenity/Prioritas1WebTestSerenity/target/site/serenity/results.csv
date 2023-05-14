@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"login","As a user, i login with accepted username standard_user","SUCCESS","2023-04-10T04:20:27.51862+07:00[Asia/Jakarta]","0.0","15.47"
+"login","As a user, i login with not accepted username test_alta","SUCCESS","2023-04-10T04:20:43.147919+07:00[Asia/Jakarta]","0.0","10.16"
+"login","As a user, i login with accepted username problem_user","SUCCESS","2023-04-10T04:20:53.43871+07:00[Asia/Jakarta]","0.0","10.38"
